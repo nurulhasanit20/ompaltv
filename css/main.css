@@ -15,10 +15,12 @@
 #map {
 	height: 92vh;
 	width: 100%;
+	margin: auto;
 }
 
 #source, #destination {
 	width: 400px;
+	height: 200px;
 }
 
 .pac-container:after {
